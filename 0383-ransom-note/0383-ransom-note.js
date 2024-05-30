@@ -20,5 +20,6 @@ var canConstruct = function (ransomNote, magazine) {
             return false;
         }
     }
+    
     return true
 };  
