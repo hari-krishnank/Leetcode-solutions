@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/1293-three-consecutive-odds) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -20,4 +21,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+## Hash Table
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+## Sorting
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
