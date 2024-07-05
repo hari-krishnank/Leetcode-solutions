@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/1293-three-consecutive-odds) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1524-string-matching-in-an-array](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/1524-string-matching-in-an-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -32,14 +33,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## String
 |  |
 | ------- |
