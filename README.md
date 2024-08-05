@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/2502-sort-the-people) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Math
 |  |
 | ------- |
@@ -37,12 +38,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -50,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1970-sorting-the-sentence](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/1970-sorting-the-sentence) |
 | [2502-sort-the-people](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/2502-sort-the-people) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
 | ------- |
