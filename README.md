@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [2032-largest-odd-number-in-string](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2032-largest-odd-number-in-string](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 ## Hash Table
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/1524-string-matching-in-an-array) |
 | [1970-sorting-the-sentence](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/1970-sorting-the-sentence) |
+| [2032-largest-odd-number-in-string](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2502-sort-the-people](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/2502-sort-the-people) |
 ## String Matching
 |  |
