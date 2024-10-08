@@ -3,13 +3,22 @@
  * @return {number}
  */
 var sumOddLengthSubarrays = function (arr) {
-    let result = 0
-    for (let i = 0; i < arr.length; i++) {
-        for (let j = i; j < arr.length; j = j + 2) {
-            for (let k = i; k <= j; k++) {
-                result = result + arr[k]
+    let count = 1
+    let sum = 0
+
+    while (count) {
+        for (let i = 0; i < arr.length; i++) {
+            if ((count + i) <= arr.length) {
+                for (let j = i; j < i + count; j++) {
+                    sum = sum + arr[j]
+                }
             }
         }
+        count = count + 2
+
+        if (count > arr.length) {
+            count = 0
+        }
     }
-    return result
-};
+    return sum
+}
