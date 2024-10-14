@@ -2,10 +2,13 @@
  * @param {number[]} nums
  * @return {number}
  */
-var minimumOperations = function(nums) {
-    let s = new Set(nums)
-    console.log(s)
-    let res = s.has(0) ? s.size - 1 : s.size;
-    console.log(res)
-    return res
+var minimumOperations = function (nums) {
+    let arr = new Set()
+    for (let i = 0; i < nums.length; i++) {
+        if (nums[i] !== 0) {
+            arr.add(nums[i])
+        }
+    }
+    console.log(arr.size)
+    return arr.size
 };
