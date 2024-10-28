@@ -18,11 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Math
 |  |
 | ------- |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Prefix Sum
 |  |
 | ------- |
