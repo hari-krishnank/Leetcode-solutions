@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
+| [2752-sum-multiples](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/2752-sum-multiples) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Prefix Sum
 |  |
