@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2421-maximum-number-of-pairs-in-array](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2502-sort-the-people](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/2502-sort-the-people) |
+| [2825-minimize-string-length](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/2825-minimize-string-length) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2502-sort-the-people](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/2502-sort-the-people) |
+| [2825-minimize-string-length](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/2825-minimize-string-length) |
 ## String Matching
 |  |
 | ------- |
