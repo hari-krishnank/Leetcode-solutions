@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-count-prefixes-of-a-given-string](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2502-sort-the-people](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/2502-sort-the-people) |
 | [2825-minimize-string-length](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/2825-minimize-string-length) |
+| [3379-score-of-a-string](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/3379-score-of-a-string) |
 ## String Matching
 |  |
 | ------- |
