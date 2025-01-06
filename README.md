@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1848-sum-of-unique-elements](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/1848-sum-of-unique-elements) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/2421-maximum-number-of-pairs-in-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1848-sum-of-unique-elements](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/1848-sum-of-unique-elements) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2502-sort-the-people](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/2502-sort-the-people) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1848-sum-of-unique-elements](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/1848-sum-of-unique-elements) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Heap (Priority Queue)
