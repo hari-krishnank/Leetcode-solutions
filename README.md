@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [1524-string-matching-in-an-array](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/1524-string-matching-in-an-array) |
 | [1970-sorting-the-sentence](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/1970-sorting-the-sentence) |
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/hari-krishnank/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
